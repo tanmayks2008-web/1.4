@@ -23,3 +23,4 @@ scanf("%d",&b);
 printf("\n%.2f raised to %d is : %.2f",a,b,power(a,b));
 getch();
 }
+
